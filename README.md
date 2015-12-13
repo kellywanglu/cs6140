@@ -56,8 +56,8 @@
 #### Mar 3
 * Topic
 
-#### Mar 10
-* Topic
+#### Mar 10 (No Class: Spring Break)
+
 
 #### Mar 17
 * Topic
