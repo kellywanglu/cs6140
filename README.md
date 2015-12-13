@@ -16,7 +16,7 @@
 ## Prerequisites
 
 * Being able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently.
-* Finishing courses in algorithms (CS 5800 or CS 7800), probability, and statistics
+* Finishing courses in algorithms (CS 5800 or CS 7800), probability, statistics, and linear algebra
 * Finishing at least one course in natural language processing, machine learning, information retrieval, or any relevant subfield of artificial intelligence.
 
 ## Grading
