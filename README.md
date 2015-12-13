@@ -10,7 +10,8 @@
 
 
 ## Course Description
-
+* Content
+* Textbook
 
 
 ## Prerequisites
