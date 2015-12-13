@@ -23,10 +23,9 @@
 ## Grading
 
 * Assignments (30%): 3*10%
-* Paper Critiques (9%): 3*3%
-* Course project (25%): team of 2 or 3 students
-* Final exam (30%): closed-book
-* Participation (6%)
+* Course project (35%): team of 2 or 3 students, reports (5%+10%+10%), final presentation (10%)
+* Midterm exam (30%): open-book
+* Participation (5%)
  
 
 ## Schedule
@@ -58,12 +57,12 @@
 
 #### Mar 10 (No Class: Spring Break)
 
-
 #### Mar 17
 * Topic
 
 #### Mar 24
 * Topic
+  * Midterm Exam
 
 #### Mar 31
 * Topic
@@ -71,12 +70,11 @@
 
 #### Apr 7
 * Topic
-  * Course Project Presentation
 
 
 #### Apr 14
 * Topic
-  * Final Exam
+  * Course Project Presentation
 
 
 
