@@ -4,6 +4,8 @@
 
 **Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 448 WVH
 
+**Office Hours**: 
+
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/fall2015/cs7180/home), sign up at [piazza.com/northeastern/fall2015/cs7180](http://piazza.com/northeastern/fall2015/cs7180)
 
 
@@ -17,11 +19,18 @@
 * Finishing courses in algorithms (CS 5800 or CS 7800), probability, and statistics
 * Finishing at least one course in natural language processing, machine learning, information retrieval, or any relevant subfield of artificial intelligence.
 
+## Grading
+
+* Assignments (30%): 3*10%
+* Paper Critiques (9%): 3*3%
+* Course project (25%): team of 2 or 3 students
+* Final exam (30%): closed-book
+* Participation (6%)
+ 
+
 ## Schedule
 #### Jan 14
 * Topic
-  * Course Setup 
-* Handout [[download]](http://www.ccs.neu.edu/home/luwang/courses/slides/intro_20150909.pdf)
 
 #### Jan 21
 * Topic
