@@ -12,15 +12,15 @@
 
 
 ## Course Description
-* Content
+#### Content
 This course will mainly cover the following topics:
 
 
-* Textbook and References
+#### Textbook and References
  * Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
  * 
  
-* Prerequisites
+#### Prerequisites
  * Being able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently.
  * Finishing courses in algorithms (CS 5800 or CS 7800), probability, statistics, and linear algebra
 
