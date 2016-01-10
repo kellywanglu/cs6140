@@ -4,7 +4,7 @@
 
 **Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 448 WVH
 
-** Staff and Office Hours**: 
+**Staff and Office Hours**: 
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
 * Gabriel Bakiewicz (TA), TBD, TBD
 
