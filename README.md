@@ -20,7 +20,8 @@ This course will mainly cover the following topics:
 #### Textbook and References
  * Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
  * Other References: 
-  * Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
  * Being able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently.
@@ -84,7 +85,8 @@ This course will mainly cover the following topics:
   * Course Project Presentation
 
 
-
+## Academic Integrity 
+This course follows the [Northeastern University Code of Academic Integrity](http://www.northeastern.edu/osccr/academic-integrity-policy/). Each student in this course is expected to abide by the Northeastern University Code of Academic Integrity. Any work submitted by a student in this course for academic credit will be the student's own work. Collaborations are allowed only if explicitly permitted. Violations of the rules (e.g. cheating, copying, non-approved collaborations) will not be tolerated.
 
 
 
