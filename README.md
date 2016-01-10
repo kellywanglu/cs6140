@@ -4,13 +4,16 @@
 
 **Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 448 WVH
 
-**Office Hours**: 
+** Staff and Office Hours**: 
+* Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
+* Gabriel Bakiewicz (TA), TBD, TBD
 
-**Discussion Forum**: [Piazza](http://piazza.com/northeastern/fall2015/cs7180/home), sign up at [piazza.com/northeastern/fall2015/cs7180](http://piazza.com/northeastern/fall2015/cs7180)
+**Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2016/cs6140/home), sign up at [http://piazza.com/northeastern/spring2016/cs6140](http://piazza.com/northeastern/spring2016/cs6140)
 
 
 ## Course Description
 * Content
+
 * Textbook
 
 
@@ -23,8 +26,8 @@
 ## Grading
 
 * Assignments (30%): 3*10%
-* Course project (35%): team of 2 or 3 students, reports (5%+10%+10%), final presentation (10%)
-* Midterm exam (30%): open-book
+* Project (35%): team of 1 to 3 students, reports (5%+10%+10%), final presentation (10%)
+* Exam (30%): open-book
 * Participation (5%)
  
 
