@@ -13,7 +13,9 @@
 
 ## Course Description
 #### Content
+
 This course will mainly cover the following topics:
+
 * Linear Models
 * Probabilistic Models
 * Statistical Learning Theory
