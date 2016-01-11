@@ -24,10 +24,10 @@ This course will mainly cover the following topics:
 * and others, including advanced topics for machine learning in natural language processing and text analysis
 
 #### Textbook and References
- * Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
- * Other References: 
-  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
-  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
+* Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
+* Other References: 
+ * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
+ * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
 This course is designed for graduate students majoring in computer science, applied math, and other related areas. Students who take this coruse are expected to be able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, statistics, and linear algebra.
