@@ -28,6 +28,9 @@ This course is designed for graduate students majoring in computer science, appl
 
 
 ## Grading
+Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 10 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. 
+
+Grades will be determined based on three assignments, one course project, one open-book exam, and participation:
 
 * Assignments (30%): three assignments, each of 10%
 * Project (35%): team of 1 to 3 students, reports (5%+10%+10%), final presentation (10%)
