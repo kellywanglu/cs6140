@@ -44,30 +44,38 @@ This course is designed for graduate students in computer science, applied math,
 
 #### Jan 21
 * Topic
+* Assignment 1 out
 
 #### Jan 28
 * Topic
+* Project proposal report due
 
 #### Feb 4
 * Topic
+* Assignment 1 due
+* Assignment 2 out
 
 #### Feb 11
 * Topic
+
 
 #### Feb 18
 * Topic
 
 #### Feb 25
 * Topic
+* Assignment 2 due
+* Assignment 3 out
 
 #### Mar 3
 * Topic
-* 
+
 
 #### Mar 10 (No Class: Spring Break)
 
 #### Mar 17
 * Topic
+* Assignment 3 due
 
 #### Mar 24
 * Topic
