@@ -44,7 +44,7 @@ This course is designed for graduate students in computer science, applied math,
 
 #### Jan 21
 * Topic
-* Assignment 1 out
+
 
 #### Jan 28
 * Topic
@@ -53,7 +53,7 @@ This course is designed for graduate students in computer science, applied math,
 #### Feb 4
 * Topic
 * Assignment 1 due
-* Assignment 2 out
+
 
 #### Feb 11
 * Topic
@@ -65,7 +65,7 @@ This course is designed for graduate students in computer science, applied math,
 #### Feb 25
 * Topic
 * Assignment 2 due
-* Assignment 3 out
+
 
 #### Mar 3
 * Topic
