@@ -15,7 +15,7 @@
 #### Content
 This course will mainly cover the following topics:
 * 
-* 
+* Deep learning
 
 #### Textbook and References
  * Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
@@ -24,6 +24,7 @@ This course will mainly cover the following topics:
   * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
+This course is designed for graduate students in computer science, applied math, and other related areas.
  * Being able to write code in some programming languages (e.g. Python, Java, C/C++) proficiently.
  * Finishing courses in algorithms (CS 5800 or CS 7800), probability, statistics, and linear algebra
 
