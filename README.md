@@ -14,8 +14,14 @@
 ## Course Description
 #### Content
 This course will mainly cover the following topics:
-* 
-* Deep learning
+* Linear Models
+* Probabilistic Models
+* Statistical Learning Theory
+* Support Vector Machines
+* Sequential Models
+* Latent Variable Models
+* Deep Learning
+* and others, including advanced topics for machine learning in natural language processing and text analysis
 
 #### Textbook and References
  * Main Textbook: Kevin Murphy, "Machine Learning - a Probabilistic Perspective", MIT Press, 2012.
@@ -40,7 +46,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 ## Schedule
 #### Jan 14
-* Topic
+* Topic: Introduction
 * Slides: [[Downloads]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
 
 #### Jan 21
