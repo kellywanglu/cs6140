@@ -30,15 +30,16 @@ This course will mainly cover the following topics:
 
 ## Grading
 
-* Assignments (30%): 3*10%
+* Assignments (30%): three assignments, each of 10%
 * Project (35%): team of 1 to 3 students, reports (5%+10%+10%), final presentation (10%)
 * Exam (30%): open-book
-* Participation (5%)
+* Participation (5%): classes, Piazza
  
 
 ## Schedule
 #### Jan 14
 * Topic
+* Slides: [[Downloads]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
 
 #### Jan 21
 * Topic
@@ -49,10 +50,8 @@ This course will mainly cover the following topics:
 #### Feb 4
 * Topic
 
-
 #### Feb 11
 * Topic
-
 
 #### Feb 18
 * Topic
@@ -70,11 +69,11 @@ This course will mainly cover the following topics:
 
 #### Mar 24
 * Topic
-  * Midterm Exam
 
+  
 #### Mar 31
 * Topic
-
+  * Exam
 
 #### Apr 7
 * Topic
@@ -86,7 +85,7 @@ This course will mainly cover the following topics:
 
 
 ## Academic Integrity 
-This course follows the [Northeastern University Code of Academic Integrity](http://www.northeastern.edu/osccr/academic-integrity-policy/). Each student in this course is expected to abide by the Northeastern University Code of Academic Integrity. Any work submitted by a student in this course for academic credit will be the student's own work. Collaborations are allowed only if explicitly permitted. Violations of the rules (e.g. cheating, copying, non-approved collaborations) will not be tolerated.
+This course follows the [Northeastern University Academic Integrity Policy](http://www.northeastern.edu/osccr/academic-integrity-policy/). All students in this course are expected to abide by the Academic Integrity Policy. Any work submitted by a student in this course for academic credit should be the student's own work. Collaborations are allowed only if explicitly permitted. Violations of the rules (e.g. cheating, fabrication, plagiarism) will be reported.
 
 
 
