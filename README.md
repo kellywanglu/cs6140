@@ -69,17 +69,17 @@ This course is designed for graduate students in computer science, applied math,
 
 #### Mar 3
 * Topic
-
+* Project progress report due
 
 #### Mar 10 (No Class: Spring Break)
 
 #### Mar 17
 * Topic
-* Assignment 3 due
+
 
 #### Mar 24
 * Topic
-
+* Assignment 3 due
   
 #### Mar 31
 * Topic
