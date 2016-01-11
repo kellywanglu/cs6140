@@ -89,16 +89,15 @@ Grades will be determined based on three assignments, one course project, one op
 * Assignment 3 due
   
 #### Mar 31
-* Topic
-  * Exam
+* Topic: Exam
+
 
 #### Apr 7
 * Topic
 
 
 #### Apr 14
-* Topic
-  * Course Project Presentation
+* Topic: Course Project Presentation
 
 
 ## Academic Integrity 
