@@ -97,6 +97,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Apr 14
 * Topic: Course Project Presentation
+* Project final report due
 
 
 ## Academic Integrity 
