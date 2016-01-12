@@ -6,7 +6,7 @@
 
 **Staff and Office Hours**: 
 * Prof. Lu Wang, Thursdays from 4:30pm to 5:30pm, or by appointment, 448 WVH
-* Gabriel Bakiewicz (TA, email: gbakie@ccs.neu.edu), Mondays and Tuesdays from 1:00pm to 2:00pm, 362 WVH
+* Gabriel Bakiewicz (TA, email: gbakie@ccs.neu.edu), Mondays and Tuesdays from 4:00pm to 5:00pm, 362 WVH
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/spring2016/cs6140/home), sign up at [http://piazza.com/northeastern/spring2016/cs6140](http://piazza.com/northeastern/spring2016/cs6140)
 
