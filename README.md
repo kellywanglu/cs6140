@@ -15,8 +15,7 @@
 ## Course Description
 #### Content
 * Regression: linear regression, logistic regression
-* Dimensionality Reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Linear
-Discriminant Analysis
+* Dimensionality Reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Linear Discriminant Analysis
 * Probabilistic Models: Naive Bayes, maximum likelihood estimation, bayesian inference
 * Statistical Learning Theory: VC dimension
 * Kernels: Support Vector Machines (SVMs), kernal tricks, duality
@@ -50,7 +49,7 @@ Grades will be determined based on three assignments, one course project, one op
 ## Schedule
 #### Jan 14
 * Topic: Introduction
-* Slides: [[Downloads]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
+* Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
 
 #### Jan 21
 * Topic
