@@ -18,9 +18,9 @@
 * Dimensionality Reduction: Principal Component Analysis (PCA), Independent Component Analysis (ICA), Linear Discriminant Analysis
 * Probabilistic Models: Naive Bayes, maximum likelihood estimation, bayesian inference
 * Statistical Learning Theory: VC dimension
-* Kernels: Support Vector Machines (SVMs), kernal tricks, duality
+* Kernels: Support Vector Machines (SVMs), kernel tricks, duality
 * Sequential Models and Structural Models: Hidden Markov Model (HMM), Conditional Random Fields (CRFs)
-* Clustering: spectural clustering, hierachical clustering
+* Clustering: spectral clustering, hierachical clustering
 * Latent Variable Models: K-means, mixture models, expectation-maximization (EM) algorithms, Latent Dirichlet Allocation (LDA), representation learning
 * Deep Learning: feedforward neural network, restricted Boltzmann machine, autoencoders, recurrent neural network, convolutional neural network
 * and others, including advanced topics for machine learning in natural language processing and text analysis
