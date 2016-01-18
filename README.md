@@ -48,46 +48,47 @@ Grades will be determined based on three assignments, one course project, one op
 
 ## Schedule
 #### Jan 14
-* Topic: Introduction
+* Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
 * Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
+* TODO: start thinking about projects and looking for teammates
 
 #### Jan 21
-* Topic
+* Topic: Logistic Regression, Decision Tree, Generative Models
 
 
 #### Jan 28
-* Topic
+* Topic: 
 * Project proposal report due
 
 #### Feb 4
-* Topic
+* Topic: 
 * Assignment 1 due
 
 
 #### Feb 11
-* Topic
+* Topic: 
 
 
 #### Feb 18
-* Topic
+* Topic: 
 
 #### Feb 25
-* Topic
+* Topic: 
 * Assignment 2 due
 
 
 #### Mar 3
-* Topic
+* Topic: 
 * Project progress report due
 
 #### Mar 10 (No Class: Spring Break)
 
 #### Mar 17
-* Topic
+* Topic: 
 
 
 #### Mar 24
-* Topic
+* Topic: 
 * Assignment 3 due
   
 #### Mar 31
@@ -95,7 +96,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 
 #### Apr 7
-* Topic
+* Topic: 
 
 
 #### Apr 14
