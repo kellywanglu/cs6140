@@ -50,45 +50,46 @@ Grades will be determined based on three assignments, one course project, one op
 #### Jan 14
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
 * Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
+* Reading: Murphy CH 1, 2, 7
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 21
-* Topic: Logistic Regression, Decision Tree, Generative Models
+* Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
 
 
 #### Jan 28
-* Topic: 
+* Topic: Bayesian Statistics and Frequentist Statistics
 * Project proposal report due
 
 #### Feb 4
-* Topic: 
+* Topic: Statistical Learning Theory and Adaptive Basic Function Models
 * Assignment 1 due
 
 
 #### Feb 11
-* Topic: 
+* Topic: Support Vector Machines and Kernels
 
 
 #### Feb 18
-* Topic: 
+* Topic: Structured Output Prediction
 
 #### Feb 25
-* Topic: 
+* Topic: Deep Learning
 * Assignment 2 due
 
 
 #### Mar 3
-* Topic: 
+* Topic: Mixture Models and Expectation Maximization
 * Project progress report due
 
 #### Mar 10 (No Class: Spring Break)
 
 #### Mar 17
-* Topic: 
+* Topic: Dimensionality Reduction
 
 
 #### Mar 24
-* Topic: 
+* Topic: Clustering
 * Assignment 3 due
   
 #### Mar 31
@@ -96,7 +97,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 
 #### Apr 7
-* Topic: 
+* Topic: Representation Learning
 
 
 #### Apr 14
