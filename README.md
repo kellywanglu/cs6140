@@ -57,7 +57,7 @@ Grades will be determined based on three assignments, one course project, one op
 * Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
 * Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec2.pdf)
 * Reading: Murphy CH 3, 8.1-8.3, 8.6, 16.2
-* TODO: assignment 1 is released
+* TODO: assignment 1 is released [[pdf]](courses/assignments_cs6140_sp16/cs6140sp16-assignment1.pdf) [[dataset(.zip)]](courses/assignments_cs6140_sp16/a1_datasets.zip)
  
 
 
