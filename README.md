@@ -49,15 +49,15 @@ Grades will be determined based on three assignments, one course project, one op
 ## Schedule
 #### Jan 14
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
-* Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec1.pdf)
+* Slides: [[Download]](courses/slides_cs6140_sp16/cs6140_lec1.pdf)
 * Reading: Murphy CH 1, 2, 7
 * TODO: start thinking about projects and looking for teammates
 
 #### Jan 21
 * Topic: Logistic Regression, Decision Tree, Generative Models (Naive Bayes)
-* Slides: [[Download]](http://www.ccs.neu.edu/home/luwang/courses/slides_cs6140_sp16/cs6140_lec2.pdf)
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec2.pdf)
 * Reading: Murphy CH 3, 8.1-8.3, 8.6, 16.2
-* TODO: assignment 1 is released [[pdf]](courses/assignments_cs6140_sp16/cs6140sp16-assignment1.pdf) [[dataset(.zip)]](courses/assignments_cs6140_sp16/a1_datasets.zip)
+* TODO: assignment 1 is released [[pdf]](assignments_cs6140_sp16/cs6140sp16-assignment1.pdf) [[dataset(.zip)]](assignments_cs6140_sp16/a1_datasets.zip)
  
 
 
