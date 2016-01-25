@@ -49,7 +49,7 @@ Grades will be determined based on three assignments, one course project, one op
 ## Schedule
 #### Jan 14
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
-* Slides: [[Download]](courses/slides_cs6140_sp16/cs6140_lec1.pdf)
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec1.pdf)
 * Reading: Murphy CH 1, 2, 7
 * TODO: start thinking about projects and looking for teammates
 
