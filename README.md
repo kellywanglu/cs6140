@@ -64,6 +64,9 @@ Grades will be determined based on three assignments, one course project, one op
 #### Jan 28
 * Topic: Bayesian Statistics and Frequentist Statistics
 * Project proposal report due
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec3.pdf)
+* Reading: Murphy CH 5.1-5.3, 6.1, 6.4
+
 
 #### Feb 4
 * Topic: Statistical Learning Theory and Adaptive Basic Function Models
