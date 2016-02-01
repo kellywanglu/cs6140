@@ -69,19 +69,20 @@ Grades will be determined based on three assignments, one course project, one op
 
 
 #### Feb 4
-* Topic: Statistical Learning Theory and Adaptive Basic Function Models
+* Topic: Perceptron, Support Vector Machines, Kernels, Statistical Learning Theory
 * Assignment 1 due
 
 
 #### Feb 11
-* Topic: Support Vector Machines and Kernels
+* Topic: Deep Learning
 
 
 #### Feb 18
-* Topic: Structured Output Prediction
+* Topic: Deep Learning
+
 
 #### Feb 25
-* Topic: Deep Learning
+* Topic: Structured Output Prediction
 * Assignment 2 due
 
 
