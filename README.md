@@ -70,6 +70,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Feb 4
 * Topic: Perceptron, Support Vector Machines, Kernels, Statistical Learning Theory
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec4.pdf)
 * Assignment 1 due
 
 
@@ -88,9 +89,11 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Mar 3
 * Topic: Mixture Models and Expectation Maximization
-* Project progress report due
+
 
 #### Mar 10 (No Class: Spring Break)
+* Project progress report due (no hard copy required)
+
 
 #### Mar 17
 * Topic: Dimensionality Reduction
@@ -110,7 +113,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Apr 14
 * Topic: Course Project Presentation
-* Project final report due
+* Project final report due on April 18 (no hard copy required)
 
 
 ## Academic Integrity 
