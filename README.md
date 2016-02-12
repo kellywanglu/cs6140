@@ -76,6 +76,8 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Feb 11
 * Topic: Deep Learning
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec5.pdf)
+* TODO: assignment 2 is released [[pdf]](material_cs6140_sp16/cs6140sp16-assignment2.pdf) [[dataset(.zip)]](material_cs6140_sp16/a2_datasets.tar.gz)
 
 
 #### Feb 18
