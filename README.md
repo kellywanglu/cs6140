@@ -86,12 +86,12 @@ Grades will be determined based on three assignments, one course project, one op
 
 
 #### Feb 25
-* Topic: Structured Output Prediction
+* Topic: Dimensionality Reduction
 * Assignment 2 due
 
 
 #### Mar 3
-* Topic: Mixture Models and Expectation Maximization
+* Topic: Clustering
 
 
 #### Mar 10 (No Class: Spring Break)
@@ -99,11 +99,11 @@ Grades will be determined based on three assignments, one course project, one op
 
 
 #### Mar 17
-* Topic: Dimensionality Reduction
+* Topic: Structured Output Prediction
 
 
 #### Mar 24
-* Topic: Clustering
+* Topic: Mixture Models and Expectation Maximization
 * Assignment 3 due
   
 #### Mar 31
