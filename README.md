@@ -49,7 +49,7 @@ Grades will be determined based on three assignments, one course project, one op
 ## Schedule
 #### Jan 14
 * Topic: Introduction, basic concepts, K-nearest neighbors, linear regression, ridge regression
-* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec1.pdf)
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec1.pdf) [[6pp version]] (slides_cs6140_sp16/cs6140_lec1_6pp.pdf)
 * Reading: Murphy CH 1, 2, 7
 * TODO: start thinking about projects and looking for teammates
 
@@ -87,7 +87,9 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Feb 25
 * Topic: Dimensionality Reduction
-* Assignment 2 due
+* Slides: [[Download]](slides_cs6140_sp16/cs6140_lec7.pdf)
+* Assignment 2 (part 1) due
+* Assignment 2 (part 2) due on Mar 2
 
 
 #### Mar 3
