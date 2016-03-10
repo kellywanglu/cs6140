@@ -99,6 +99,7 @@ Grades will be determined based on three assignments, one course project, one op
 
 #### Mar 10 (No Class: Spring Break)
 * Project progress report due (no hard copy required)
+* TODO: assignment 3 is released [[pdf]](material_cs6140_sp16/cs6140sp16-assignment3.pdf) [[dataset(.zip)]](material_cs6140_sp16/a3_datasets.zip)
 
 
 #### Mar 17
