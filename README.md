@@ -110,6 +110,7 @@ Grades will be determined based on three assignments, one course project, one op
 #### Mar 24
 * Topic: Mixture Models and Expectation Maximization
 * Slides: [[Download]](slides_cs6140_sp16/cs6140_lec10.pdf) [[6pp version]](slides_cs6140_sp16/cs6140_lec10_6pp.pdf)
+* Exam guideline: [[Download]](slides_cs6140_sp16/exam_guideline.pdf)
 * Assignment 3 due
   
 #### Mar 31
